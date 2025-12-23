@@ -23,7 +23,7 @@ The goal was to create a centralized monitoring system capable of collecting met
 ### 1️⃣ Resource Group
 Resource group created to isolate all monitoring components.  
 
-![Resource Group](/screenshots/resource_group.png)
+![Resource Group](azure-monitoring-log-analytics/screenshots/resource_group.png)
 
 ---
 
